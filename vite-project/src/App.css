@@ -1,0 +1,9 @@
+#registration{
+  @apply container mx-auto flex justify-between flex-wrap
+}
+#registration input{
+  @apply border border-solid border-green-600 py-2 px-2 block w-full mb-3 rounded-lg
+}
+#registration h2{
+  @apply text-center text-2xl font-bold 
+}
